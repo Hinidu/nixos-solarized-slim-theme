@@ -18,8 +18,8 @@ input_color             #849496
 # panel location
 input_panel_x           50%
 input_panel_y           50%
-input_name_x            425
-input_name_y            560
+input_name_x            320
+input_name_y            450
 
 # username / password request (actual text)
 username_font           Liberation Sans:size=14:dpi=96
