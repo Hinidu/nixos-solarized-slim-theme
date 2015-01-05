@@ -1,0 +1,39 @@
+# Solarized Dark NixOS SLiM Theme
+# Pavel Platto
+# hinidu@gmail.com
+
+# messages (ie: shutdown, session options, etc)
+msg_color               #849496
+msg_font                Liberation Sans:size=14:dpi=96
+msg_x                   50%
+msg_y                   70%
+
+# valid values: stretch, tile
+background_style        tile
+
+# input box controls
+input_font              Liberation Sans:size=14:dpi=96
+input_color             #849496
+
+# panel location
+input_panel_x           50%
+input_panel_y           50%
+input_name_x            425
+input_name_y            560
+
+# username / password request (actual text)
+username_font           Liberation Sans:size=14:dpi=96
+username_color          #849496
+username_x              50%
+username_y              50%
+password_x              50%
+password_y              50%
+
+# welcome message
+welcome_x               50%
+welcome_y               42%
+welcome_font            Liberation Sans:size=14:bold:dpi=96
+welcome_color           #849496
+
+# session name
+session_x               50%
