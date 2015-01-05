@@ -37,3 +37,5 @@ welcome_color           #849496
 
 # session name
 session_x               50%
+session_font            Liberation Sans:size=14:bold:dpi=96
+session_color           #849496
